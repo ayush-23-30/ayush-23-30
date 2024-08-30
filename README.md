@@ -10,7 +10,7 @@
 - 💬 Ask me about **REACT , MERN**
 
 - 📫 How to reach me **Pawar85060@gmail.com**
-
+- ✔️ checkout my Portfolio - https://myportfolio-ayush-kumar-s-projects-4d50efbf.vercel.app/
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ayush-23-30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-23-30" height="30" width="40" /></a>
