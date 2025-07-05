@@ -1,18 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
-<h3 align="center">An Aspiring Machine Learning Engineer | Full Stack Developer</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h3 align="center">Aspiring Machine Learning Engineer | Data Analyst </h3>
 
-- 🔭 I’m currently working on **Machine Learning Projects using Python and Scikit-learn**
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-- 🌱 I’m currently learning **Deep Learning and advanced ML model tuning**
-
-- 💻 I also have experience in **Full Stack Web Development using MERN stack**
-
-- 👨‍💻 I have built and deployed over **15+ ML projects** including Regression, NLP, Classification
-
+- 🔭 I’m currently working on **end-to-end Machine Learning projects** using Python, Scikit-learn, and Streamlit  
+- 📊 I'm also exploring **Data Analysis** using **Pandas, Power BI, Excel, and SQL**  
+- 🌱 Learning **Deep Learning** and advanced model tuning with TensorFlow & PyTorch  
+- 💻 10+ months of hands-on experience in **Reelax as junior Data Analyst (Python, Power bi , MYSQL,Pandas, Excel)**  
+- ⚡ Built and deployed over **15+ ML projects** including NLP apps, recommender systems, and dashboards  
+- 🌐 Check out my ML Portfolio: [ml-portfolio-pearl.vercel.app](https://ml-portfolio-pearl.vercel.app)  
 - 📫 Reach me at **Pawar85060@gmail.com**
-
-- 🌐 Checkout my ML Portfolio: [https://ml-portfolio-pearl.vercel.app](https://ml-portfolio-pearl.vercel.app)
 
 ---
 
@@ -33,44 +30,23 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
-  </a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="matplotlib" width="40" height="40"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="60" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+  <img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="matplotlib" width="40" height="40"/>
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="60" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </p>
 
 ---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-23-30&" alt="ayush-23-30" /></p>
+<h3 align="left">📈 GitHub Stats:</h3>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-23-30&theme=react" alt="ayush-23-30" />
+</p>
